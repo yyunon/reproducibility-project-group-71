@@ -1,0 +1,8 @@
+Week 4
+Prepare the theoratical and introduction.
+Prepare the images to be processed.(Pre-processing)
+What Attila expects from report and poster?
+Week 5
+Try to implement the optimizer. Produce first results.
+Week 6-7-8
+Create the poster.
