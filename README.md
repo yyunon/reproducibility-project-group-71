@@ -1,4 +1,18 @@
-# reproducibility-project-group-71
-This is the repository containing the reproducibility project of deep learning course.
+# Deep Image Priors
+Arda Kaygan, Preetha Vijayan, Yuksel Yonsel
 
-We can divide the workload and work on seperate parts. Finally, we can merge them in final folder. 
+Suprvised by Xin Liu
+
+This is the repository containing the reproducibility project of deep learning course. 
+
+The link of the paper:
+
+https://arxiv.org/abs/1711.10925
+
+You can find our blogpost in here [Blogpost](blog.ipynb).
+
+The source code is in src/ folder. 
+
+The results can be found both in src/, sims/ and Images_for_report/.
+
+
