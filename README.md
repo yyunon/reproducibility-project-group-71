@@ -9,7 +9,7 @@ The link of the paper:
 
 https://arxiv.org/abs/1711.10925
 
-You can find our blogpost in here [Blogpost](blog.ipynb).
+You can find our blogpost in here [Blogpost](Blog.ipynb).
 
 The source code is in src/ folder. 
 
