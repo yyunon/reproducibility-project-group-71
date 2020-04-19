@@ -1,4 +1,4 @@
-# Deep Image Priors
+# Deep Image Prior
 Arda Kaygan, Preetha Vijayan, Yuksel Yonsel
 
 Suprvised by Xin Liu
